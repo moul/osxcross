@@ -1,5 +1,7 @@
 ## OS X Cross toolchain for Linux, *BSD and Cygwin ##
 
+[![GuardRails badge](https://badges.production.guardrails.io/moul/osxcross.svg)](https://www.guardrails.io)
+
 ### WHAT IS THE GOAL OF OSXCROSS? ###
 
 The goal of OSXCross is to provide a well working OS X cross toolchain for Linux, *BSD and Cygwin.
